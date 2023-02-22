@@ -1184,6 +1184,24 @@
     "universal-user-agent" "^3.0.0"
     "url-template" "^2.0.8"
 
+"@reactioncommerce/catalyst@^1.19.1":
+  "integrity" "sha512-3Uz0ycUyLn45DrxsKcJZHeH5uaep9+sx8+AKaAS/t1Q52iFD9qLmgX8f/2Ewcpw7MbJTag36+dTwVozFq1KFoQ=="
+  "resolved" "https://registry.npmjs.org/@reactioncommerce/catalyst/-/catalyst-1.19.1.tgz"
+  "version" "1.19.1"
+  dependencies:
+    "@babel/runtime" "~7.3.1"
+    "accounting-js" "~1.1.1"
+    "clsx" "^1.0.4"
+    "lodash.debounce" "~4.0.8"
+    "lodash.get" "~4.4.2"
+    "lodash.isempty" "~4.4.0"
+    "lodash.isequal" "~4.5.0"
+    "lodash.uniqueid" "~4.0.1"
+    "mdi-material-ui" "~5.8.0"
+    "react-is" "~16.4.1"
+    "react-select" "^3.0.4"
+    "react-table" "7.0.0-rc.15"
+
 "@reactioncommerce/eslint-config@~1.9.0":
   "integrity" "sha512-pLkrZNEEoL1MSQCYn+jeGmEZHDFuyrrEEAtF+uq206Sddw+hiwQ4s9vEWNs4mP60mnKmHo03QfQ8XtQik6tRcA=="
   "resolved" "https://registry.npmjs.org/@reactioncommerce/eslint-config/-/eslint-config-1.9.0.tgz"
