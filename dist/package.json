@@ -1,0 +1,36 @@
+{
+  "name": "@reactioncommerce/catalyst",
+  "version": "0.0.0-development",
+  "description": "Reaction Catalyst",
+  "homepage": "https://github.com/aryapadh/catalyst",
+  "repository": "https://github.com/aryapadh/catalyst",
+  "license": "Apache-2.0",
+  "private": false,
+  "sideEffects": false,
+  "dependencies": {
+    "@babel/runtime": "~7.3.1",
+    "accounting-js": "~1.1.1",
+    "clsx": "^1.0.4",
+    "lodash.debounce": "~4.0.8",
+    "lodash.get": "~4.4.2",
+    "lodash.isempty": "~4.4.0",
+    "lodash.isequal": "~4.5.0",
+    "lodash.uniqueid": "~4.0.1",
+    "mdi-material-ui": "~5.8.0",
+    "react-is": "~16.4.1",
+    "react-select": "^3.0.4",
+    "react-table": "7.0.0-rc.15"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@material-ui/core": ">=4.12.4 < 5",
+    "@material-ui/lab": ">=4.0.0-alpha.40",
+    "@reactioncommerce/components-context": "~1.2.0",
+    "prop-types": "~15.7.2",
+    "react-dom": "~16.9.0"
+  },
+  "main": "index",
+  "module": "index.mjs"
+}
